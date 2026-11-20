@@ -1,0 +1,11 @@
+{
+  "n_total": 284807,
+  "n_train_raw": 227845,
+  "n_test": 56962,
+  "fraud_train_raw": 394,
+  "fraud_test": 98,
+  "train_internal_duplicates": 718,
+  "train_rows_matching_test": 293,
+  "n_train": 226834,
+  "fraud_train": 376
+}
